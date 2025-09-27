@@ -3,5 +3,4 @@
 *.out
 *.synctex.gz
 *.fls
-*.fdb_latexmk
-*.pdf 
+*.fdb_latexmk 
